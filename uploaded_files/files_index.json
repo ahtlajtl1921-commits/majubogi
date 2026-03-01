@@ -1,0 +1,25 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [
+    {
+      "original_name": "웹사이트 제작 로드맵",
+      "file_name": "웹사이트 제작 로드맵.png",
+      "file_path": "/workspace/seolrem_dating_platform/public/images/웹사이트 제작 로드맵.png",
+      "rel_path": "images/웹사이트 제작 로드맵.png",
+      "file_type": "png",
+      "category": "images"
+    }
+  ],
+  "summary": {
+    "total_files": 1,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 1
+    },
+    "processing_time": null
+  }
+}
